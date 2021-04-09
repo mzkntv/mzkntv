@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mzkntv
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Vue.js, Django
+- 👀 I’m interested in Web technologies
+- 🌱 I’m currently learning Vue.js, Django, CI/CD
 
 
 <!---
