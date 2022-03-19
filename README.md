@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: Python, JavaScript, C++</code>
 <code>📦 Tech stack: Django, FastAPI, VueJS, Docker</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/mzkntv)</code>
+<code>💬 telegram: [@mzkntv](https://telegram.me/mzkntv)</code>
 <code>📫 [muzykantov99@gmail.com](mailto:muzykantov99@gmail.com)</code>
